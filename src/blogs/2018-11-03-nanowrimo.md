@@ -4,41 +4,39 @@ title: "Oh heck, it's NaNoWriMo already?!"
 
 While writing this I thought up a small playlist that fits the themes of this story, and makes me smile:
 
-* "I will not go quietly" - The Whitlams
-* "From little things big things grow" - The Waifs (original by Paul Kelly)
-* "You are such a loser" - Garfunkel and Oates
+* _I will not go quietly_ - The Whitlams
+* _From little things big things grow_ - The Waifs (original by Paul Kelly)
+* _You are such a loser_ - Garfunkel and Oates
 
 - - - -
 
 For those who want to skim the values/morals/aesops of this post, here they are at the front:
 
-> It's important to learn to take small steps  
+> Completing a large task means learning to complete small tasks regularly
 
-> From Little things big things grow  
+> It's okay to fail, but you should learn from it
 
-> It's okay to fail, but you should learn from it  
+> If you'll miss it for a good excuse, you'll miss it for a bad excuse
 
-> If you'll miss it for a good excuse, you'll miss it for a bad excuse  
-
-> Ideas don't matter if you can't execute on them  
+> Ideas don't matter if you can't execute on them
 
 - - - -
 
-Oh frigging heck, it's NaNoWriMo already? Ugh. I can't do it this year.
+Oh frigging heck, it's **NaNoWriMo** already? Ugh. I can't do it this year.
 
 Also, apologies, I appear to be having trouble swearing. I beg your indulgence. For all of this really.
 
 Okay, okay, you're probably confused by now, so let's back up.
 
-National Novel Writers Month (NaNoWriMo)  is an event(?), organisation(?), life goal(?). To participate, you have to attempt to write 50,000 words over the month of November, or an average of 1,667 words a day. That number is burned into my psyche.
+National Novel Writers Month (**NaNoWriMo**)  is an event(?), organisation(?), life goal(?). To participate, you have to attempt to write 50,000 words over the month of November, or an average of 1,667 words a day. That number is burned into my psyche.
 
-NaNoWriMo states itself very clearly. The goal is not to write a quality novel, but to help you develop the habit of writing (quite a lot) every single day. Because to be a successful writer, you need to be writing.
+**NaNoWriMo** states itself very clearly. The goal is not to write a quality novel, but to help you develop the habit of writing (quite a lot) every single day. Because to be a successful writer, you need to be writing.
 
 > A writer writes  
 
 Okay, we're flashing back.
 
-Picture this, a younger Noviny. They have just finished university. They have attempted NaNoWriMo several times and written 10,000, 20,000 words, but always sputtered out, normally by day 10. There's a lesson in there.
+Picture this, a younger Noviny. They have just finished university. They have attempted **NaNoWriMo** several times and written 10,000, 20,000 words, but always sputtered out, normally by day 10. There's a lesson in there.
 
 And while they have finished their university degree having done alright, the yawning chasm of the future opens up, ready to swallow them. Their previous ambition - to be a philosopher fulltime - has become untenable. They didn't do _that_ well. My next dream job was storyteller, and because I am often quite a solitary creature, to met that meant noveling.
 
@@ -72,11 +70,11 @@ Being proud of dreaming up a story isn't important. The important thing was if I
 
 And of course, it was dross. Bad prose, odd characters, stilted pacing. But, of course, by the 20,000th word it was better, and it was easier, and there was a plot, and I was having fun.
 
-NaNoWriMo that year was like a victory lap. I was travelling, and I devoted days just to writing, slamming out the words in an absurdly short period of time.
+**NaNoWriMo** that year was like a victory lap. I was travelling, and I devoted days just to writing, slamming out the words in an absurdly short period of time.
 
 Within a year, I had written a novel (though not edited it) and having done so, having succeeded, I got to look back and know that I _was_ capable of this work, I _was_ able to pick a long term goal and work and work and work at it and succeed.
 
-I have completed NaNoWriMo once more since then, while working on a second novel that learned so much from all the horrible mistakes of the first novel.  I still haven't published any fiction, but it turns out that wasn't the thing that was going to motivate me.
+I have completed **NaNoWriMo** once more since then, while working on a second novel that learned so much from all the horrible mistakes of the first novel.  I still haven't published any fiction, but it turns out that wasn't the thing that was going to motivate me.
 
 This year though, I'm not in that place. I'm not writing much anymore, and maybe I should be trying a little more. Getting into blogging was part of that goal, stretch my writing muscles beyond what I do for workmoney. It's good, but it's not the same feel.
 
@@ -94,7 +92,7 @@ More tritely, a lot of my role involves writing a lot of documentation, trying t
 
 But most importantly, it's a rejection of a wish-I-was view that wonders if I had started programming earlier, would I be better off, more advanced, better at it, more knowledgeable. I reject the idea because then I wouldn't be me, and I've been working on being a better me for a while, and that needs all of the experiences I have gone through, and the lessons I have learned from it.
 - - - -
-And I hesitate to mention this, because maybe it's not worth much, but the last week, I have been writing again, every day. It's not been a NaNoWriMo day's worth, often barely 100 words. It's not adding up to a novel, but it's writing stories, or the hints and edges of stories.
+And I hesitate to mention this, because maybe it's not worth much, but the last week, I have been writing again, every day. It's not been a **NaNoWriMo** day's worth, often barely 100 words. It's not adding up to a novel, but it's writing stories, or the hints and edges of stories.
 
 I run a tabletop roleplaying game at work, and I am slowly building a world up for people, for myself. It is getting me back to why I wanted to write, be a writer, in the first place. It wasn't any concept of money_fame_glory, no. What I wanted was to tell stories, because I love stories. And I love sharing stories.
 

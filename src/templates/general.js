@@ -2,7 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import Layout from '../components/layout';
 /** @jsx jsx */
-import { jsx, css, Global } from '@emotion/core';
+import { jsx } from '@emotion/core';
 
 export default ({ data }) => {
   const post = data.markdownRemark;

@@ -56,7 +56,7 @@ const Header = ({ siteTitle }) => {
   return (
     <div
       style={{
-        background: 'rebeccapurple',
+        background: '#042960',
         marginBottom: '1.45rem',
       }}
     >

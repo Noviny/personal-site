@@ -13,7 +13,8 @@ const IndexPage = ({ data }) => {
   let mdPages = data.allMarkdownRemark.edges;
   return (
     <Layout>
-      <h1>A homepage, it links to the other things we have:</h1>
+      <h1>Very Placeholder</h1>
+      <p> - enjoy these two things I have:</p>
       <ul>
         {mdPages.map(MDLink)}
         <li>

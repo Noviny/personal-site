@@ -5,7 +5,9 @@ html {
 }
 body {
   margin: 0;
+  background-color: #B5BDD4
 }
+
 article,
 aside,
 details,
@@ -438,12 +440,12 @@ fieldset {
 blockquote {
   margin-left: 1.45rem;
   margin-right: 1.45rem;
-  margin-top: 0;
-  padding-bottom: 0;
-  padding-left: 0;
-  padding-right: 0;
-  padding-top: 0;
   margin-bottom: 1.45rem;
+  background-color: #2C4585;
+  color: #FFFFFF;
+  padding: 10px 5px;
+  text-align: center;
+  border-radius: 3px;
 }
 form {
   margin-left: 0;
