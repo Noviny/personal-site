@@ -1,19 +1,45 @@
-import React from 'react'
-import { Link } from 'gatsby'
+import React from 'react';
+import { graphql, Link } from 'gatsby';
 
-import Layout from '../components/layout'
-import Image from '../components/image'
+import Layout from '../components/layout';
 
-const IndexPage = () => (
-  <Layout>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
-    <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
-      <Image />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
-)
+const MDLink = ({ node }) => (
+  <li key={node.fields.slug}>
+    <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+  </li>
+);
 
-export default IndexPage
+const IndexPage = ({ data }) => {
+  let mdPages = data.allMarkdownRemark.edges;
+  return (
+    <Layout>
+      <h1>A homepage, it links to the other things we have:</h1>
+      <ul>
+        {mdPages.map(MDLink)}
+        <li>
+          <Link to="/whoami">Who even am I?</Link>
+        </li>
+      </ul>
+    </Layout>
+  );
+};
+
+export default IndexPage;
+
+export const query = graphql`
+  {
+    allMarkdownRemark {
+      edges {
+        node {
+          fields {
+            postType
+            slug
+          }
+          frontmatter {
+            title
+          }
+        }
+      }
+    }
+  }
+`;
