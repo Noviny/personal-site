@@ -27,7 +27,7 @@ export default Placeholder;
 
 export const query = graphql`
   {
-    allMarkdownRemark {
+    allMarkdownRemark(filter: { fields: { postType: { eq: "blogs" } } }) {
       edges {
         node {
           fields {
@@ -36,6 +36,7 @@ export const query = graphql`
           }
           frontmatter {
             title
+            author
           }
         }
       }

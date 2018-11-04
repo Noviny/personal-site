@@ -10,12 +10,16 @@ setConfig({ pureSFC: true });
 // TODO - make this a vertical carousel of words
 // This is our base idea https://codepen.io/rachsmith/pen/BNKJme
 const writings = ['Code', 'Docs', 'Stories', 'Philosophy', 'Meanderings'];
+// const writings = ['Philosophy', 'Meanderings'];
 
 const Word = ({ word, isCurrent }) => (
   <span
     css={css`
       position: ${isCurrent ? 'relative' : 'absolute'};
       width: 220px;
+      @media (max-width: 560px) {
+        display: ${isCurrent ? 'inline' : 'none'};
+      }
       opacity: ${isCurrent ? 1 : 0};
       ${isCurrent
         ? `transition: opacity 1s cubic-bezier(0.175, 0.885, 0.32, 1.275);`
@@ -32,7 +36,6 @@ const Words = writings.map(word => (
     css={css`
       position: absolute;
       width: 220px;
-      // opacity: 0;
       @media (max-width: 560px) {
         display: contents;
       }
