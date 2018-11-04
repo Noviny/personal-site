@@ -33,6 +33,9 @@ const Words = writings.map(word => (
       position: absolute;
       width: 220px;
       // opacity: 0;
+      @media (max-width: 560px) {
+        display: contents;
+      }
     `}
     key={word}
   >
@@ -55,10 +58,13 @@ const Header = ({ siteTitle }) => {
 
   return (
     <div
-      style={{
-        background: '#042960',
-        marginBottom: '1.45rem',
-      }}
+      css={css`
+        background-color: #042960;
+        marginbottom: 1.45rem;
+        @media (max-width: 560px) {
+          text-align: center;
+        }
+      `}
     >
       <div
         style={{
@@ -75,7 +81,16 @@ const Header = ({ siteTitle }) => {
               textDecoration: 'none',
             }}
           >
-            {siteTitle}{' '}
+            <span
+              css={css`
+                @media (max-width: 560px) {
+                  display: flex;
+                  flex-direction: column;
+                }
+              `}
+            >
+              {siteTitle}{' '}
+            </span>
             {writings.map((word, index) => (
               <Word key={word} word={word} isCurrent={wordIndex === index} />
             ))}
