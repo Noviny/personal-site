@@ -2,7 +2,7 @@
 title: "Oh heck, it's NaNoWriMo already?!"
 ---
 
-While writing this I thought up a small playlist that fits the themes of this story, and makes me smile:
+While writing this I thought up a [small playlist](https://open.spotify.com/user/noviny/playlist/4P2Q6Yuns5sD2cPOpO415d?si=57ucDpbAQRWS2HYpYHnufg) that fits the themes of this story, and makes me smile:
 
 * _I will not go quietly_ - The Whitlams
 * _From little things big things grow_ - The Waifs (original by Paul Kelly)
