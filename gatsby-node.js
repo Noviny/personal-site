@@ -16,7 +16,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
     // we can get the parentNode (a gatsby-source-filesystem node) and check its
     // sourceInstanceName (defined in gatsby-config.js)
     const postType = getNode(node.parent).sourceInstanceName;
-    const finalSlug = `${postType}/${slug}`;
+    const finalSlug = path.join(postType, slug);
 
     createNodeField({
       node,

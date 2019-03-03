@@ -25,7 +25,7 @@ const Placeholder = () => (
     <ul>
       {links.map(([name, place]) => (
         <li key={name}>
-          <Link to={place}>{name}</Link>
+          <a href={place}>{name}</a>
         </li>
       ))}
     </ul>
